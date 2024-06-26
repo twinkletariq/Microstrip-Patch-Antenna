@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+asus
+[Mesh Cells]
+959,805
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:array_s.cst?17a9add4d7a730ee00132cf1fff21dd5?26148:numberofparameters=16:port=1>mode=1>zre=50>zim=0:::hg?hp?hs?k?l1?lg?li?lp?ls?t1?w1?wg?wf?wi?wp?ws
+[Comment]
